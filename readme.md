@@ -1,4 +1,7 @@
-# Using Blender 2.80
+# Python Grab Bag
+Assorted python scripts for various things
+
+## Using Blender 2.80
 
 
 https://adrianszatmari.medium.com/quickstart-blender-scripting-tutorial-the-plane-and-the-ball-886b9ffa2cc8
